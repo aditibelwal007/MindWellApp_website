@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App]https://raw.githubusercontent.com/aditibelwal007/MindWellApp_website/8169404896dfe77ce18c5aae32a80b45b792bd33/frontend/src/pages/images/web1.png
-frontend/src/pages/images/web1.png
+This project was bootstrapped with [Create React App]
+<img width="1511" height="728" alt="image" src="https://github.com/user-attachments/assets/83d2c6fc-6625-428f-9def-09313402fcb3" />
+
 
 ## Available Scripts
 
