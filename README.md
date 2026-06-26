@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App]
-<img width="1511" height="728" alt="image" src="https://github.com/user-attachments/assets/83d2c6fc-6625-428f-9def-09313402fcb3" />
+<img width="1511" height="728" alt="image" src="https://github.com/user-attachments/assets/83d2c6fc-6625-428f-9def-09313402fcb3" /><img width="1504" height="728" alt="image" src="https://github.com/user-attachments/assets/68aeba4f-89e1-48dc-9f55-85fc3765a148" />
+
 
 
 ## Available Scripts
