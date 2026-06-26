@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App][Create React App](https://github.com/facebook/create-react-app)
+This project was bootstrapped with [Create React App]https://raw.githubusercontent.com/aditibelwal007/MindWellApp_website/8169404896dfe77ce18c5aae32a80b45b792bd33/frontend/src/pages/images/web1.png
 frontend/src/pages/images/web1.png
 
 ## Available Scripts
